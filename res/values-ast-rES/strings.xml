@@ -18,13 +18,9 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- General -->
-  <!-- Application name -->
-  <string name="wallpapers">Fondos de fumu máxico</string>
-  <!-- Wallpapers showing smoke, clouds, water, plasmas -->
-  <string name="wallpaper_magicsmoke">Fumu máxico</string>
-  <!-- button label -->
-  <string name="ok">ACEUTAR</string>
-  <!-- overlay text -->
-  <string name="taptochange">Calca pa camudar</string>
+    <string name="wallpapers">Fondos de pantalla de fumu máxico</string>
+    <string name="wallpaper_magicsmoke">Fumu máxico</string>
+    <string name="author">Google</string>
+    <string name="ok">ACEUTAR</string>
+    <string name="taptochange">Calca pa camudar</string>
 </resources>

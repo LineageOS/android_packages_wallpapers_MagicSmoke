@@ -18,9 +18,9 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- General -->
-  <!-- Application name -->
-  <!-- Wallpapers showing smoke, clouds, water, plasmas -->
-  <!-- button label -->
-  <!-- overlay text -->
+    <string name="wallpapers">Papurau wal Mŵg Hud</string>
+    <string name="wallpaper_magicsmoke">Mŵg Hud</string>
+    <string name="author">Google</string>
+    <string name="ok">Iawn</string>
+    <string name="taptochange">Tapia i newid</string>
 </resources>
